@@ -154,6 +154,31 @@ I'm Kushal Eshwar Reddy Gudibandi ✨
 
 </div>
 
+## 🎓 Education
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎓 Master of Science in Computer Science
+**Florida State University**  
+Tallahassee, FL, USA  
+📅 Graduated: May 2024
+
+</td>
+<td align="center" width="50%">
+
+### 🎓 Bachelor of Technology
+**SRM University**  
+India  
+📅 Graduated: May 2022
+
+</td>
+</tr>
+</table>
+
+---
+
 <!---
 KeerthiReddyGudibandi/KeerthiReddyGudibandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
