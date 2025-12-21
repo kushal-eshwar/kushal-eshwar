@@ -13,6 +13,10 @@ I'm Kushal Eshwar Reddy Gudibandi ✨
 - 💬 Ask me about LLMs, AI/ML, NLP, Python, Java, SQL, HTML, and CSS.
 </p>
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blue?style=for-the-badge&logo=react&logoColor=white)](https://jenvith-ai-nexus.lovable.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushal-eshwar-reddy-gudibandi)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushaleshwarreddy@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kushal-eshwar)
 
 <!---
 KeerthiReddyGudibandi/KeerthiReddyGudibandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
