@@ -179,6 +179,74 @@ India
 
 ---
 
+## 💼 Professional Journey
+
+<details open>
+<summary><b>🎯 AI Specialist @ Florida Department of Revenue</b> <i>(Nov 2024 – Present)</i></summary>
+<br>
+
+- Managed and coordinated interstate child support cases, ensuring compliance with federal and state regulations.
+- Enhanced CAMS by identifying and correcting data inconsistencies, improving overall system accuracy.
+- Developed automated **SQL and SAS** scripts to generate federal and state reporting extracts, cutting manual workload by **40%**.
+- Build interactive **Power BI dashboards** tracking KPIs such as case resolution rate, average processing time, and compliance adherence.
+- Conduct trend and variance analysis on program data to support policy evaluation and operational decisions.
+- Collaborate with IT and business teams to validate data integrity, ensuring compliance with **HIPAA and data governance standards**.
+- Present complex analytical findings to leadership through visual reports and summaries for actionable decisionmaking.
+- Support audits and CMS submissions by preparing validated extracts, documentation, and quality assurance reports.
+- Designed data validation workflows, reducing data discrepancies by **35%** and enhancing end-to-end reporting accuracy.
+
+**Tech Stack:** `SQL` `SAS` `Power BI` `FAISS` `LLaMA-3.1` `vLLM` `Kubeflow` `KServe` `ArgoCD`
+
+</details>
+
+<details>
+<summary><b>🛡️ Principal Data Analyst @ United Cloud Technologies</b> <i>(Jun 2024 – Oct 2024)</i></summary>
+<br>
+
+**Built enterprise-scale fraud detection systems**
+
+- 🔒 Developed **real-time fraud detection system**
+  - 📈 Improved recall by **15%** with Isolation Forest and LSTM models
+  - ⚡ Achieved **<100ms inference latency**
+  
+- 💰 **Infrastructure optimization**
+  - 📉 Reduced costs by **40%** through Kubernetes optimization
+  - 🔄 CI/CD pipelines reducing deployment time by **90%**
+  
+- 📊 **Comprehensive monitoring**
+  - 🎯 Prometheus/Grafana stack with **<60s** incident detection
+  - 🔍 Real-time drift monitoring and alerting
+
+**Tech Stack:** `Apache Spark Streaming` `Docker` `Kubernetes (EKS)` `MLflow` `Airflow` `Prometheus` `Grafana`
+
+</details>
+
+<details>
+<summary><b>📊 Data Scientist @ Cyient</b> <i>(Jan 2020 – Jul 2022)</i></summary>
+<br>
+
+**Productionized ML models for streaming data**
+
+- 🌊 Designed **streaming ML pipelines**
+  - 📊 Processing **500K+ transactions daily** with sub-second latency
+  - 🎯 Reduced false positives by **20%**, improved accuracy by **15%**
+  
+- 🏗️ Built **scalable feature infrastructure**
+  - 💾 Feature store with AWS Glue and EMR (PySpark)
+  - 📈 Supporting both batch and streaming models
+  
+- 🔍 **Model monitoring & explainability**
+  - 🎯 SHAP/LIME integration for model interpretability
+  - 📊 Drift detection using KS test
+  - 💾 Managed **1TB+/month** data with automated ETL
+
+**Tech Stack:** `AWS SageMaker` `EKS` `Kubeflow` `PySpark` `Kafka` `SHAP` `CloudWatch`
+
+</details>
+
+---
+
+
 <!---
 KeerthiReddyGudibandi/KeerthiReddyGudibandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
