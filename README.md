@@ -200,7 +200,7 @@ India
 </details>
 
 <details>
-<summary><b>🛡️ Principal Data Analyst @ United Cloud Technologies</b> <i>(Jun 2024 – Oct 2024)</i></summary>
+<summary><b>🛡️ ML Engineer @ United Cloud Technologies</b> <i>(Jun 2024 – Oct 2024)</i></summary>
 <br>
 
 **Built enterprise-scale fraud detection systems**
@@ -222,7 +222,7 @@ India
 </details>
 
 <details>
-<summary><b>📊 Data Scientist @ Cyient</b> <i>(Jan 2020 – Jul 2022)</i></summary>
+<summary><b>📊 Data Scientist @ Focus softnet.ltd</b> <i>(Jan 2020 – Jul 2022)</i></summary>
 <br>
 
 **Productionized ML models for streaming data**
