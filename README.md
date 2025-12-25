@@ -187,14 +187,23 @@ India
 
 ### 🧠 Applied AI, Analytics & Automation
 - Applied **AI-assisted analytics** to manage and optimize **interstate child support case data**, ensuring compliance with federal and state regulations.
-- Improved **CAMS system accuracy** by detecting and correcting data inconsistencies using **rule-based and statistical validation techniques**.
+- Improved **CAMS system accuracy** by identifying and correcting data inconsistencies using **rule-based and statistical validation techniques**.
 - Developed **automated SQL and SAS pipelines** for federal and state reporting, reducing manual processing effort by **40%**.
-- Built **Power BI dashboards** tracking KPIs such as case resolution rate, processing latency, and compliance adherence to enable **data-driven decision-making**.
+- Built **Power BI dashboards** to track KPIs such as **case resolution rate, processing time, and compliance adherence**, enabling data-driven decision-making.
+
+### 📊 Advanced Analytics & Decision Support
 - Performed **trend analysis, variance analysis, and forecasting** on large-scale program datasets to support **policy evaluation and operational planning**.
-- Collaborated with **IT, data engineering, and business teams** to validate data integrity and ensure **HIPAA-compliant analytics workflows**.
-- Translated complex analytical outputs into **executive-ready insights and visual reports** for leadership.
-- Supported **CMS audits and regulatory submissions** by preparing validated datasets, QA reports, and documentation.
+- Translated complex analytical outputs into **executive-ready insights and visual summaries** for leadership and stakeholders.
+- Collaborated cross-functionally with **IT, data engineering, and business teams** to validate data integrity and ensure **HIPAA-compliant analytics workflows**.
+
+### 🛡️ Data Quality, Governance & Compliance
 - Designed **data quality and validation frameworks**, reducing discrepancies by **35%** and improving end-to-end analytical reliability.
+- Supported **CMS audits and regulatory submissions** by preparing **validated datasets, quality assurance reports, and documentation**.
+- Ensured adherence to **HIPAA, CMS reporting standards, and state/federal data governance policies** across all analytics workflows.
+
+### ☁️ Analytics Operations & Reporting
+- Automated recurring reporting workflows and compliance extracts using **SQL and SAS**, improving timeliness and audit readiness.
+- Maintained analytics pipelines supporting **operational monitoring, compliance tracking, and performance measurement**.
 
 ---
 
