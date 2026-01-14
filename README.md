@@ -182,7 +182,7 @@ India
 ## 💼 Professional Journey
 
 <details open>
-<summary><b>🎯 Revenue Specialist II @ Florida Department of Revenue</b> <i>(Nov 2024 – Present)</i></summary>
+<summary><b>🎯 AI Specialist @ Florida Department of Revenue</b> <i>(Nov 2024 – Present)</i></summary>
 <br>
 
 ### 🧠 Applied AI, Analytics & Automation
