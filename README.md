@@ -5,12 +5,12 @@
 
 
 <p>
-I'm Kushal Eshwar Reddy Gudibandi ✨ 
+I'm Kushal Eshwar Reddy Gudibandi ✨
 
-- 🔬 Built projects in LLMs, Python, Artificial Intelligence, Machine Learning, Data Analysis.
-- 🌱 Experienced in applying large language model–based systems, data-driven modeling, and AI-powered analytics to solve real-world problems.
-- 💞️ I’m looking to collaborate on AI/ML, NLP, and data-driven projects focused on building scalable, real-world solutions and intelligent analytics systems.
-- 💬 Ask me about LLMs, AI/ML, NLP, Python, Java, SQL, HTML, and CSS.
+🔬 I’ve worked on projects across software engineering, LLMs, Python, AI, machine learning, and data analysis.
+🌱 I enjoy building software systems and applying large language models and data-driven techniques to solve meaningful, real-world problems.
+💞️ I’m open to collaborating on software engineering, AI/ML, NLP, and data-focused projects—especially those centered on scalable systems and intelligent analytics.
+💬 Feel free to reach out if you want to talk about software engineering, LLMs, AI/ML, NLP, Python, Java, SQL, HTML, or CSS.
 </p>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blue?style=for-the-badge&logo=react&logoColor=white)](https://kushaleshwar10.github.io/Kushaleshwar10/)
@@ -182,7 +182,7 @@ India
 ## 💼 Professional Journey
 
 <details open>
-<summary><b>🎯 AI Specialist @ Florida Department of Revenue</b> <i>(Nov 2024 – Present)</i></summary>
+<summary><b>🎯 Software Engineer - AI/ML & Full Stack @ Florida Department of Revenue</b> <i>(Nov 2024 – Present)</i></summary>
 <br>
 
 ### 🧠 Applied AI, Analytics & Automation
