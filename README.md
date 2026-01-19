@@ -5,13 +5,25 @@
 
 
 <p>
-I'm Kushal Eshwar Reddy Gudibandi ✨
-
-🔬 I’ve worked on projects across software engineering, LLMs, Python, AI, machine learning, and data analysis.
-🌱 I enjoy building software systems and applying large language models and data-driven techniques to solve meaningful, real-world problems.
-💞️ I’m open to collaborating on software engineering, AI/ML, NLP, and data-focused projects—especially those centered on scalable systems and intelligent analytics.
-💬 Feel free to reach out if you want to talk about software engineering, LLMs, AI/ML, NLP, Python, Java, SQL, HTML, or CSS.
+  I'm Kushal Eshwar Reddy Gudibandi ✨
 </p>
+
+<p>
+  🔬 I’ve worked on projects across software engineering, LLMs, Python, AI, machine learning, and data analysis.
+</p>
+
+<p>
+  🌱 I enjoy building software systems and applying large language models and data-driven techniques to solve meaningful, real-world problems.
+</p>
+
+<p>
+  💞️ I’m open to collaborating on software engineering, AI/ML, NLP, and data-focused projects—especially those centered on scalable systems and intelligent analytics.
+</p>
+
+<p>
+  💬 Feel free to reach out if you want to talk about software engineering, LLMs, AI/ML, NLP, Python, Java, SQL, HTML, or CSS.
+</p>
+
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-blue?style=for-the-badge&logo=react&logoColor=white)](https://kushaleshwar10.github.io/Kushaleshwar10/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushal-eshwar-reddy-gudibandi-b92420167/)
