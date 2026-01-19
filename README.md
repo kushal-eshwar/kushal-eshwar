@@ -308,7 +308,7 @@ State & Federal Data Governance · Audit-Ready Data Pipelines
 </details>
 
 <details>
-<summary><b>📊 Data Scientist @ Focus softnet.ltd</b> <i>(Jan 2020 – Jul 2022)</i></summary>
+<summary><b>📊 Associate Software Engineer – Data & ML Applications @ Focus softnet.ltd</b> <i>(Jan 2020 – Jul 2022)</i></summary>
 <br>
 
 **Production ML & Streaming Analytics**
