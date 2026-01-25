@@ -245,7 +245,7 @@ State & Federal Data Governance · Audit-Ready Data Pipelines
 </details>
 
 <details>
-<summary><b>🛡️ ML Engineer @ United Cloud Technologies</b> <i>(Jun 2024 – Oct 2024)</i></summary>
+<summary><b>🛡️ ML Engineer @ Firstnet Global</b> <i>(Jan 2023 – Nov 2024)</i></summary>
 <br>
 
 
@@ -308,7 +308,7 @@ State & Federal Data Governance · Audit-Ready Data Pipelines
 </details>
 
 <details>
-<summary><b>📊 Associate Software Engineer – Data & ML Applications @ Kpit Technologies </b> <i>(Jan 2021 – Jul 2022)</i></summary>
+<summary><b>📊 Associate Software Engineer – Data & ML Applications @ Silicon Matrix </b> <i>(Dec 2020 – Jul 2022)</i></summary>
 <br>
 
 **Production ML & Streaming Analytics**
