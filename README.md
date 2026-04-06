@@ -245,7 +245,7 @@ State & Federal Data Governance · Audit-Ready Data Pipelines
 </details>
 
 <details>
-<summary><b>🛡️ ML Engineer @ Firstnet Global</b> <i>(Jan 2023 – Nov 2024)</i></summary>
+<summary><b>🛡️ ML Engineer @ United Cloud Technologies</b> <i>(Jan 2023 – Nov 2024)</i></summary>
 <br>
 
 
