@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  🔬 I’ve worked on projects across software engineering, LLMs, Python, AI, machine learning, and data analysis.
+  🔬 I’ve worked on projects across AI, machine learning, software engineering, LLMs, Python, and data analysis.
 </p>
 
 <p>
