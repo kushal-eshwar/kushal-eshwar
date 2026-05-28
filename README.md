@@ -194,7 +194,7 @@ India
 ## 💼 Professional Journey
 
 <details open>
-<summary><b>🎯 Software Engineer - AI/ML & Full Stack @ Florida Department of Revenue</b> <i>(Nov 2024 – Present)</i></summary>
+<summary><b>🎯 Software Engineer - AI/ML & Full Stack @ Florida Department of Revenue</b> <i>(Nov 2024 – May 2026)</i></summary>
 <br>
 
 ### 🧠 Applied AI, Analytics & Automation
@@ -245,7 +245,7 @@ State & Federal Data Governance · Audit-Ready Data Pipelines
 </details>
 
 <details>
-<summary><b>🛡️ ML Engineer @ United Cloud Technologies</b> <i>(Jan 2023 – Nov 2024)</i></summary>
+<summary><b>🛡️ Machine Learning Engineer @ United Cloud Technologies</b> <i>(Jan 2023 – Nov 2024)</i></summary>
 <br>
 
 
@@ -337,10 +337,4 @@ State & Federal Data Governance · Audit-Ready Data Pipelines
 
 </details>
 
----
 
-
-<!---
-KeerthiReddyGudibandi/KeerthiReddyGudibandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
