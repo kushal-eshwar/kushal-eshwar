@@ -194,7 +194,63 @@ India
 ## 💼 Professional Journey
 
 <details open>
-<summary><b>🎯 Software Engineer - AI/ML & Full Stack @ Florida Department of Revenue</b> <i>(Nov 2024 – May 2026)</i></summary>
+<summary><b>🍎 AI/ML Engineer @ Apple</b> <i>(Jun 2026 – Present)</i></summary>
+<br>
+
+### 🤖 AI/ML Model Development
+- Develop and improve **production AI/ML solutions using Python**, supporting model experimentation, evaluation, inference, and integration into large-scale applications.
+- Build reusable ML components and workflows that improve the reliability, scalability, and production readiness of AI systems.
+- Collaborate with machine learning engineers and researchers to translate model requirements into reliable production capabilities.
+
+### 🧠 LLM Evaluation & Validation
+- Create automated **LLM evaluation and validation pipelines** to measure response quality, detect model regressions, and identify prompt, data, and infrastructure failures.
+- Define validation scenarios for model accuracy, relevance, consistency, safety, latency, and production reliability.
+- Analyze evaluation results and production behavior to identify opportunities for model and system improvement.
+
+### ⚡ Inference & ML Services
+- Build and integrate scalable **model inference services and REST APIs** that connect machine learning models with internal applications and data workflows.
+- Validate inference endpoints for latency, throughput, reliability, scalability, and deployment readiness.
+- Optimize ML serving workflows to support reliable, high-performance model execution across distributed environments.
+
+### 📊 Data & ML Pipelines
+- Develop reliable **data ingestion, preprocessing, feature validation, and model evaluation pipelines** for production AI/ML systems.
+- Implement automated checks to detect missing data, schema changes, distribution shifts, and data-quality issues before model execution.
+- Support ML workloads operating across **Kubernetes, virtual machines, and GCP environments**.
+
+### 📈 ML Observability & Optimization
+- Monitor **model quality, inference latency, throughput, error rates, availability, and resource utilization** across production ML services.
+- Build observability dashboards and automated alerts using **Datadog, Prometheus, and Grafana** to accelerate incident detection and root-cause analysis.
+- Troubleshoot failures across model, prompt, data, API, and infrastructure layers and implement long-term reliability improvements.
+
+### 🤝 Cross-Functional AI Delivery
+- Collaborate with ML engineers, researchers, software engineers, product stakeholders, and partner teams to deliver reliable AI platform capabilities.
+- Participate in design reviews, code reviews, testing, technical documentation, and knowledge-sharing sessions.
+- Support scoped AI/ML features from requirements and implementation through validation, deployment, monitoring, and production support.
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / Machine Learning:**  
+`Machine Learning` `LLMs` `Model Evaluation` `Prompt Engineering` `Model Inference`
+
+**Programming & APIs:**  
+`Python` `REST APIs` `Automated Testing`
+
+**Data & ML Pipelines:**  
+`Data Ingestion` `Data Validation` `Feature Processing` `Evaluation Pipelines`
+
+**Cloud & Infrastructure:**  
+`GCP` `Kubernetes` `Virtual Machines` `Distributed Systems`
+
+**Monitoring & Observability:**  
+`Datadog` `Prometheus` `Grafana` `Production Monitoring`
+
+</details>
+
+
+<details>
+<summary><b>🎯 AI/ML Software Engineer @ Florida Department of Revenue</b> <i>(Nov 2024 – May 2026)</i></summary>
 <br>
 
 ### 🧠 Applied AI, Analytics & Automation
@@ -245,7 +301,7 @@ State & Federal Data Governance · Audit-Ready Data Pipelines
 </details>
 
 <details>
-<summary><b>🛡️ Machine Learning Engineer @ United Cloud Technologies</b> <i>(Jan 2023 – Nov 2024)</i></summary>
+<summary><b>🛡️ Machine Learning Engineer @ United Cloud Technologies</b> <i>(Jul 2024 – Nov 2024)</i></summary>
 <br>
 
 
@@ -303,36 +359,6 @@ State & Federal Data Governance · Audit-Ready Data Pipelines
 
 **Infrastructure:**  
 `Docker` `Kubernetes` `AWS` `Azure` `Prometheus` `Grafana`
-
-
-</details>
-
-<details>
-<summary><b>📊 Associate Software Engineer – Data & ML Applications @ Silicon Matrix </b> <i>(Dec 2020 – Jul 2022)</i></summary>
-<br>
-
-**Production ML & Streaming Analytics**
-
-### 🔬 Modeling & Applied Machine Learning
-- Designed and deployed **machine learning models on high-volume streaming data**, analyzing **500K+ transactions/day** to generate real-time predictions.
-- Improved **model accuracy by 15%** and reduced **false positives by 20%** through feature engineering, threshold tuning, and error analysis.
-- Ran iterative experiments and evaluated models using **precision, recall, F1-score, ROC-AUC**, and business-aligned metrics.
-
-### 🧠 Feature Engineering & Data Science Pipelines
-- Built and maintained **feature pipelines** supporting both **batch and streaming ML workflows**.
-- Engineered time-windowed, behavioral, and aggregate features using **PySpark**, enabling stable model performance at scale.
-- Worked with **large-scale datasets (1TB+/month)** and ensured data quality through automated preprocessing and validation checks.
-
-### 📈 Model Monitoring, Drift & Explainability
-- Integrated **SHAP/LIME** to provide model explainability and increase stakeholder trust.
-- Implemented **data drift monitoring** (e.g., **KS test**) and alerting to detect distribution shifts early.
-- Monitored model performance in production (latency, throughput, precision/recall trends) and triggered retraining workflows when needed.
-
-### ☁️ Scalable Deployment & Collaboration
-- Partnered with data engineering and platform teams to operationalize models while maintaining analytical rigor.
-- Set up dashboards and monitoring to track prediction volume, pipeline health, and model quality over time.
-
-**Tech Stack:** `Python` `SQL` `PySpark` `Kafka` `AWS SageMaker` `AWS EMR` `AWS Glue` `EKS` `SHAP` `LIME` `CloudWatch`
 
 
 </details>
